@@ -1,0 +1,34 @@
+{
+  "formatVersion": "2",
+  "header": {
+    "description": "An SAP Fiori application.",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "generalInformation": {
+    "appType": "ui5",
+    "catalogId": "SAP_TC_UI5_REPO_UIAD",
+    "targetMappingTitle": "YST01"
+  },
+  "ui5AppDetails": {
+    "appId": "zyst01"
+  },
+  "navigation": {
+    "targetMappingId": "UI5R_F98C3C46CF57CCB810F7E0000E96B0A93CBFEB71_TM",
+    "semanticObject": "zyst01",
+    "action": "Display",
+    "desktop": true,
+    "tablet": true,
+    "phone": true
+  },
+  "tiles": [
+    {
+      "id": "UI5R_F98C3C46CF57CCB810F7E0000E96B0A93CBFEB71_AL",
+      "tileType": "static",
+      "isDefault": true,
+      "standard": {
+        "title": "YST01"
+      }
+    }
+  ]
+}
